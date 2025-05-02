@@ -6,3 +6,4 @@ Notes and usage details for afx.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
