@@ -45,3 +45,4 @@ Notes and usage details for afx.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
